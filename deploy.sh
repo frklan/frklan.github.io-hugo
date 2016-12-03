@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo -e "\033[0;32mDeploying updates to GitHub...\033[0m"
+echo -e "\033[0;32mDeploying updates to frklan.github.io...\033[0m"
 
 # Build the project.
 hugo # if using a theme, replace by `hugo -t <yourtheme>`
@@ -22,3 +22,14 @@ git push origin master
 
 # Come Back
 cd ..
+
+echo -e "\033[0;32mDone!\033[0m"
+
+echo -e "\033[0;32mSaving source to git@github.com:frklan/frklan.github.io-hugo.git\033[0m"
+git add -A
+msg2="site source updated @ `date`"
+if [ $# -eq 2 ]
+  then msg2="$2"
+fi
+git commit -m "$msg2"
+git push -u origin master
