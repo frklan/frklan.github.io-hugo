@@ -11,10 +11,9 @@ title = "Om.."
 <img src="https://farm8.staticflickr.com/7353/buddyicons/39190652@N03_r.jpg?1378581704" >
 Hej, jag heter Fredrik Andersson och bor i Borås, Sverige.
 
-På [frklan.github.io](https://frklan.github.io) samlar jag mina elektronik- och programmeringsprojekt, dessutom smyger jag då och då in lite fotografi-prat.
+På [frklan.github.io](https://frklan.github.io) samlar jag mina elektronik- och programmeringsprojekt, antagligen smyger jag då och då in lite fotografi-prat också.
 
-
-Jag kan inte bestämma mig om [Github](https://github.com) eller [Gitlab](https:gitlab.com) är bäst. Github är så klart störst och har stöd överallt, men på Gitlabs kan man få obegränsat antal privata repon; perfekt när man inte är rikigt redo att visa skiten man pillar med.
+Jag kan inte bestämma mig om [Github](https://github.com) eller [Gitlab](https://gitlab.com) är bäst. Github är så klart störst och har stöd överallt, men på Gitlab kan man få obegränsat antal privata repon; perfekt när man inte är rikigt redo att visa vilken röra man ställt till med.
 
 Jag finns på bägge, så klart.
 
@@ -22,3 +21,7 @@ Jag finns på bägge, så klart.
 - [gitlab.com/frklan](https://gitlab.com/frklan)
 
 Mina bilder finns på [flickr](https://secure.flickr.com/photos/39190652@N03/) och [instagram](https://www.instagram.com/frklan/).
+
+
+
+<center><i class="fa fa-apple fa-1x"></i></center>
