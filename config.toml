@@ -65,10 +65,10 @@ theme = "hyde-x"
 
       # Sidebar social links, these must be full URLs.
       github = "https://github.com/frklan"
-      gitlab = "https://gitlab.com/frklan"
+      # gitlab = "https://gitlab.com/frklan"
       # bitbucket = ""
       # stackOverflow = ""
-      # linkedin = "blabal"
+      linkedin = "https://se.linkedin.com/in/fredrik-andersson-71585830"
       # googleplus = ""
       facebook = "https://www.facebook.com/fredrik.andersson.330467"
       # twitter = ""
@@ -83,8 +83,11 @@ theme = "hyde-x"
       SectionPagesMenu = "main"
       # menu = ["blog", "about"]
 
+      gravatarSiteHash = "f97a33f7d66aa4084c4d9c94b49fd74d"
+      #gravatarHash = "f97a33f7d66aa4084c4d9c94b49fd74d"
+
   [menu]
     [[menu.main]]
-      name = "about"
-      weight = 0
+      name = "om mig"
+      weight = 1
       url = "/about"
