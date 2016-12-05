@@ -13,11 +13,9 @@ Ett nytt arduino-projekt börjar ta form - controlKnob. En liten låda med ratt 
 Tanken är att kunna välja verktyg eller styra funktioner i Photoshop och Blender, eventuellt blir det flera moduler som enkelt snäpps ihop till en hel kontrolpanel.<br>
 
 ### en klass för ett tangenbord?
-En klass msået man ha, hur gör jag ett tangentbord?
-<img src="/images/controlKnob/code.png" >
-Kanske kan funka..
+En klass måste man ha, hur gör jag ett tangentbord?
 <img src="/images/controlKnob/keypadclass.png" >
+Kan jag anvädna den?
 <img src="/images/controlKnob/keypadclassnextkey.png" >
-Aningens bökigt att använda, kanske?
 <img src="/images/controlKnob/keypadclassuse.png" >
-Får fila lite mer, eventuellt kan jag flytta in reaktionen på knappen i klassen också..
+Aningens bökigt, kanske? Får fila lite mer, eventuellt kan jag flytta in reaktionen på knapparna i klassen också.../de  
