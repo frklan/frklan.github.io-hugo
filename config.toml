@@ -83,8 +83,8 @@ theme = "hyde-x"
       SectionPagesMenu = "main"
       # menu = ["blog", "about"]
 
-      gravatarSiteHash = "f97a33f7d66aa4084c4d9c94b49fd74d"
-      #gravatarHash = "f97a33f7d66aa4084c4d9c94b49fd74d"
+      #gravatarSiteHash = "f97a33f7d66aa4084c4d9c94b49fd74d"
+      gravatarHash = "f97a33f7d66aa4084c4d9c94b49fd74d"
 
   [menu]
     [[menu.main]]
