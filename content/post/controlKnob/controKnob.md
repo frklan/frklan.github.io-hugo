@@ -2,7 +2,7 @@
 title = "Ett nytt projekt - \"controlKnob\""
 description = ""
 keywords = [ ]
-categories = [arduino", "c++", "controlKnob"]
+categories = ["arduino", "c++", "controlKnob"]
 date = "2016-12-05T20:34:02+01:00"
 draft = false
 
