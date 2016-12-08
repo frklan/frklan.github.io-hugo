@@ -3,6 +3,10 @@ title = "Fredrik Andersson"
 DefaultContentLanguage = "sv"
 theme = "hyde-x"
 
+[languages.sv]
+weight = 0
+languageName = "Svenska"
+
 #[params]
 #  GithubID = "frklan"
 #  LinkedInID = "your_linkedin"
