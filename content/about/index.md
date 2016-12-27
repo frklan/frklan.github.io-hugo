@@ -23,7 +23,9 @@ Bilderna fotar jag direkt på svarteloxerad aliminium-plåt (tintype) eller glas
 Följ mig på [Instagram](https://www.instagram.com/frklan/) eller [flickr](https://secure.flickr.com/photos/39190652@N03/).
 
 ### Elektronik och programmering
-Professionellt jobbar jag som testutvecklare och teknisk ledare på ett storbolag där jag bland annat kodar C#, Python och Labview. Privat blir det framförallt C/C++ för arduino-kloner, favoriten är nodeMCU/ESP8266 och Sparkfun Pro Micro.
+Professionellt jobbar jag som testutvecklare och teknisk ledare på ett storbolag där jag bland annat kodar C#, Python och Labview.
+
+Privat blir det framförallt C/C++ för arduino-kloner, favoriterna är nodeMCU/ESP8266 och Sparkfun Pro Micro.
 
 Projekt jag törs visa finns på [gitlab.com/frklan](https://gitlab.com/frklan) och [github.com/frklan](https://github.com/frklan). Jag kan inte bestämma mig vilken om är bäst; Github är så klart störst och har stöd överallt, men på Gitlab kan man få obegränsat antal privata repon; perfekt när man inte är rikigt redo att visa vilken röra man ställt till med.
 
