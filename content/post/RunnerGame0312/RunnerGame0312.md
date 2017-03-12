@@ -8,12 +8,12 @@ title = "RunnerGame"
 date = "2017-03-12T17:47:17+01:00"
 
 +++
-Härromveckan blev jag sugen på att lära mig Unity och spelprogrammering. Lekte lite med SpriteKit i Swift för runt ett-å-ett-halvt år sen men det blev aldigt nåt vettigt.<br />
+Härromveckan blev jag sugen på att lära mig Unity och spelprogrammering igen, lekte lite med SpriteKit i Swift för runt ett-å-ett-halvt år sen men det blev aldigt nåt vettigt.<br />
 <!--more-->
-<p>Man kan inte beskylla Unity för att vara vidare självinstruerande första gången man startar det, men efter ett par minuter på youtube känns interfacet och kopplingen mot c# är rikigt snygg. Däremot suger kodeditorn MonoDevelop rikgit ordentligt; den har nån fix idé att formatera koden heltokigt. Som tur är går det att justera, även om man får spendera bra mycket tid i inställningsdialogen.
+<p>Man kan inte beskylla Unity för att vara vidare självinstruerande, men efter ett par minuter på youtube känns interfacet och kopplingen mot c# är rikigt snygg. Däremot suger kodeditorn MonoDevelop; den har nån fix idé att formatera koden heltokigt. Som tur är går det att justera, även om man får spendera bra mycket tid i inställningsdialogen.
 </p>
 
-<p>Nåväl, efter en halv helg har jag fått ihop ett litet fånigt springspel. Inte mycket att göra annat än att rusa mot högre och högre poäng, vilket bara blir krångligare jum er man försöker eftersom jag hittade på en rent elak poängräknare som minskar minar poängen med 27% så fort man hoppar:
+<p>Nåväl, efter en halv helg har jag fått ihop ett litet fånigt springspel. Inte mycket att göra annat än att rusa mot högre och högre poäng, vilket bara blir krångligare ju mer man försöker eftersom jag hittade på en rent elak poängräknare som minskar poängen med 27% så fort man hoppar och hoppar man inte dör man fort som satan..
  <p/>
 ```
 score = score - score / 2.7f;
