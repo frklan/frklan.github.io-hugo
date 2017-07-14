@@ -1,5 +1,5 @@
 +++
-categories = ["C#", "MacOS", "Programmering", "Spel"]
+categories = ["c#", "unity", "spel"]
 date = "2017-04-29T20:16:16+02:00"
 title = "PlFrMr - The Game to Rule Them All"
 description = ""

@@ -2,7 +2,7 @@
 description = "Speljäveln rycker tag i en.."
 keywords = [
 ]
-categories = [
+categories = ["c#", "unity", "spel"
 ]
 title = "RunnerGame"
 date = "2017-03-12T17:47:17+01:00"
