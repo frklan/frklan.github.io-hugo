@@ -19,4 +19,4 @@ Jag snodde en hel del idéer och kod från [Quill18](https://www.twitch.tv/quill
 Vill man provspela finns ett installationspaket [här](/post/PlFrMr/pLtFrMr.pkg). Observera att installeraren inte är signerad (md5 hashen är "F0C99DCAE135354EC445847C23DD2D60")!
 <img src="/images/PlFrMr/PlFrMr2.png" width=600px>
 
-Dessvärre har jag mer eller mindre redan gett upp hoppet att få en startskärm eller ens nån fräck animering när man kommer "i mål", vi får se vad som händer framöver.
+Dessvärre har jag mer eller mindre redan gett upp hoppet att få en startskärm eller nån fräck animering när man kommer "i mål". Vi får se vad som händer framöver, men det mesta lutar på att jag börjar om med ett mindre projekt.
