@@ -13,7 +13,7 @@ Tröttnade som sagt på mitt runner-spel, gav mig istället på att skriva en kl
 <!--more-->
 
 <p>
-Det här gick mycket bättre och med helt egen grafik och (nästan) egna ljud blev slutresultatet riktigt snyggt.
+Det här gick mycket bättre och med helt egen grafik och (nästan) egna ljud blev slutresultatet riktigt snyggt. Även om det kan diskuteras om det verkligen är en klon av Astroids, vi kanske skall nöjja oss med att säga "inspirerat av"..
 <img src="/images/SpaceWars20170625/intro.jpg">
 </p>
 
