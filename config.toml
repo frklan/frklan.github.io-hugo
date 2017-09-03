@@ -53,7 +53,7 @@ languageName = "Svenska"
       highlight = "sunburst"
 
       # Optional additional custom CSS file URL, will override other styles.
-      customCSS = ""
+      customCSS = "/custom.css"
 
       # Displays under the author name in the sidebar, keep it short.
       # You can use markdown here.
