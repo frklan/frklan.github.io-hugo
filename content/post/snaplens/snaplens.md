@@ -27,5 +27,7 @@ Till min första "lins" valde jag en samba-dansande krigare av Maw J Laygo. Blev
 Snap skall godkänna alla inskickade linser (om man vill ha dem live utan den fula "developer"-stämplen rätt över), efter en stunds spänd väntan fick jag min fösta godkänd! Fånigt? Javisst, men ack så skoj.
 
 Sugen att prova? Skanna den här i snapchat:
-![Dancing Steve](/images/snapcode_dancingsteve.png)
+
+![Dancing Steve](https://app.snapchat.com/web/deeplink/snapcode?data=03e945805e2e4269bc37fb631f4608a6&version=1&type=svg&image_style=LENS)
+
 Slanga sen hem [Lens Studio](https://lensstudio.snapchat.com/) och gör nåt skoj!
